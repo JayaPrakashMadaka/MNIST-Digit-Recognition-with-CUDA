@@ -55,7 +55,13 @@ With subtask 4, the execution will be 
 
 The images should be in img folder , Output will be in output folder
 
+## Subtask 1 and Subtask2
+![S1S2](srcimg/1.png)
 
+## Subtask 3
+![S1S2](srcimg/2.png)
 
+## Subtask 4
+![S1S2](srcimg/3.png)
 
 
